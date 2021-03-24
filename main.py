@@ -17,3 +17,8 @@ print (type(cislo))
 print(type(name))
 print(type(name))
 print(type(name))
+
+print(type(name))
+print(type(name))
+print(type(name))
+
