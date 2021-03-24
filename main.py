@@ -13,4 +13,7 @@ print(pi)
 cislo = cislo + 0.1
 print (cislo)
 print (type(cislo))
+
+print(type(name))
+print(type(name))
 print(type(name))
