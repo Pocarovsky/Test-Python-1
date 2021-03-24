@@ -3,6 +3,10 @@ name = "Value"
 cislo = 99
 print("Jmeno je :", name)
 print(cislo)
+print(cislo)
+print(cislo)
+print(cislo)
+
 
 cislo = 99 *2
 print(cislo)
