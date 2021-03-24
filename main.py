@@ -7,7 +7,7 @@ print(cislo)
 cislo = 99 *2
 print(cislo)
 
-pi = 3.14
+pi = 3.1415
 print(pi)
 
 cislo = cislo + 0.1
